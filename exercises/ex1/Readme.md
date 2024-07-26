@@ -54,7 +54,8 @@ After completing these steps you will have created a queue in Advanced Event Mes
 
 1. Go back to the original tab in your browser and click on **"Cluster Manager"** on the left.
 2. In the All Services screen click on the **"Broker Asia"** tile.
-HINT: If you cannot see the tiles, uncheck the Only show my services box.
+
+HINT: If you cannot see the tiles, uncheck the "Only show my services" box.
 
 ![Pic 2](./images/ex1-2.png)  
 
