@@ -52,31 +52,28 @@ On the left side of the screen are the main sections to navigate through:
 
 After completing these steps you will have created a queue in Advanced Event Mesh.
 
-1. Go back to the original tab in your browser and click on Cluster Manager on the left
+1. Go back to the original tab in your browser and click on **"Cluster Manager"** on the left.
+2. In the All Services screen click on the **"Broker Asia"** tile.
+HINT: If you cannot see the tiles, uncheck the Only show my services box.
 
 ![Pic 2](./images/ex1-2.png)  
 
-2. In the All Services screen click on the Broker Asia Tile (Pune)
 
-![Pic 3](./images/ex1-3.png)    
-
-HINT: If you cannot see the tiles, uncheck the Only show my services box
-
-3. Switch to "Manage" tab and click on the Queues tile. A new window opens up
+3. Switch to **"Manage"** tab and click on the **"Queues""** tile. A new window opens up.
 
 ![Pic 4](./images/ex1-4.png)     
 
-4. Click the +Queue button on the top right
+4. Click the **"+Queue"** button on the top right.
 
 ![Pic 5](./images/ex1-5.png)        
 
-5. In the pop up enter the queue name: User_**XXX** (replace **XXX** with your user number)
+5. In the pop up enter the queue name: User_**XXX** (replace **XXX** with your user number).
 
-6. Click "Create"
+6. Click **"Create"**
 
 ![Pic 6](./images/ex1-6.png)      
 
-7. On the next screen click Apply
+7. On the next screen click **"Apply"**
 
 ![Pic 7](./images/ex1-7.png)      
 
@@ -86,47 +83,47 @@ HINT: If you cannot see the tiles, uncheck the Only show my services box
 
 ## Exercise 1.3 - Create a queue subscription in Advanced Event Mesh
 
-9. Switch to tab "Subscriptions".
+9. Switch to tab **"Subscriptions"**.
 
-10. Click on "+ Subscription".
+10. Click on **"+ Subscription"**.
 
 ![Pic 9](./images/ex1-9.png)  
 
-11. Enter following topic into the field: aif/businesspartner/change as the topic.
+11. Enter following topic into the field: **aif/businesspartner/change** as the topic.
 
 ![Pic 11](./images/ex1-10.png)  
 
 HINT: Please note that this topic is very simple to facilitate this exercise. In real world scenarios, you can work with topic hierarchies that allow for filtering etc. 
 
-12. Click on Create
+12. Click on **"Create"**.
 
-13. Check on whether your queue subscription got created
+13. Check on whether your queue subscription got created.
 
 ![Pic 12](./images/ex1-11.png)  
 
 ## Exercise 1.4 - Send an event from the Try Me! tool to your topic
 
-14. Switch to the "Try Me!" Section in the menu on the right.
+14. Switch to the **"Try Me!"** Section in the menu on the right.
 
-15. Press the "expand"-Icon to show the connection details. Please note, that the properties have to be adjusted, so the connection will not work. We will add them in the next steps
+15. Press the **"expand"-Icon** to show the connection details. Please note, that the properties have to be adjusted, so the connection will not work. We will add them in the next steps.
 ![Pic 13](./images/ex1-13.png) 
 
-16. Keep your current browser tab open and go back to the other/main tab and click on Connect. Select View by "Protocol"
+16. Keep your current browser tab open and **go back to the other/main tab** and click on **"Connect"**. Select **View by "Protocol"**.
 
 ![Pic 14](./images/ex1-14.png) 
 
-17. Open the "Solace Web Messaging" entry and select "Solace JavaScript API". Now a Pop-up on the right shows use the connection details.
+17. Open the **"Solace Web Messaging"** entry and select **"Solace JavaScript API"**. Now a Pop-up on the right shows use the connection details.
 
 ![Pic 15](./images/ex1-14.png) 
 
 18.  Copy these details into the according properties of the "Try Me!" tool opened in step 14. Overwrite existing values.
 ![Pic 15-1](./images/ex1-15.png) 
 
-19. Press "Connect".
->Important: If your browser asks to select a certificate for authentication, press "Cancel" otherwise the connection will fail! If you accidentially clicked on a certificate, please restart your browser to show the dialog again.
+19. Press **"Connect"**.
+>**Important**: If your browser asks to select a certificate for authentication, press "Cancel" otherwise the connection will fail! If you accidentially clicked on a certificate, please restart your browser to show the dialog again.
 ![Pic 17](./images/ex1-17.png)  
 
-20. Choose **"Queue"** and provide the name of the queue creted in step 5: User_**XXX** (replace **XXX** with your user number)
+20. Choose **"Queue"** and provide the name of the queue creted in step 5: User_**XXX** (replace **XXX** with your user number).
 
 21. Change "Deliver Mode" to **"Persistent** and add following "Message Content":
 ```json
@@ -151,19 +148,19 @@ HINT: Please note that this topic is very simple to facilitate this exercise. In
 
 ```
 
-19. Click Publish to send your message to your topic
+19. Click **"Publish"** to send your message to your topic.
 
 ![Pic 18](./images/ex1-18.png)  
 
-20. You should see 1 message published in the Publish Status
+20. You should see 1 message published in the Publish Status.
 
 ![Pic 20](./images/ex1-19.png)  
 
-21. Switch back to the tab Queues and click on your queue.
+21. Switch back to the tab **"Queues"** and click on your queue.
 
 ![Pic 21](./images/ex1-20.png)  
 
-22. You should see 1 Message Queued
+22. You should see 1 Message Queued.
 
 ![Pic 22](./images/ex1-21.png)  
 
