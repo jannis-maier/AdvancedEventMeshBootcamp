@@ -14,7 +14,7 @@ In this session we will take a deep dive into SAP Integration Suite, advanced ev
 SAP Integration Suite, advanced event mesh is a fully managed event streaming and management service that enables enterprise-wide and enterprise-grade event-driven architecture. It is a full blown, general purpose Event Mesh. AEM offers enterprise-grade performance, reliability, security and governance. It scales to very large use cases – and very means very very very in this case.
 
 - Advanced Event Mesh is a distributed mesh of event brokers that can be deployed across environments, both in the cloud and on-premise
-- It offers a full purpose set of eventing services covering all relevant use cases
+- It offers a full-purpose set of eventing services covering all relevant use cases
 - AEM supports event streaming, event management and event monitoring
 - Brokers fully scale as required and come in T-shirt sizes to perfectly fit different needs
 
