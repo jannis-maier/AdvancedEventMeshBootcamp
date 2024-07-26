@@ -92,11 +92,11 @@ HINT: If you cannot see the tiles, uncheck the Only show my services box
 
 ![Pic 9](./images/ex1-9.png)  
 
-11. Enter following topic into the field: user**XXX**/sap/businesspartner/v1/BusinessPartner/Changed as the topic, and replace **XXX** with your group/participant number.
+11. Enter following topic into the field: aif/businesspartner/change as the topic.
 
 ![Pic 11](./images/ex1-10.png)  
 
-HINT: Please note that this topic is very simple to facilitate this exercise. In real world scenarios, you can work with topic hierarchies that allow for filtering etc. We will dive into this later.
+HINT: Please note that this topic is very simple to facilitate this exercise. In real world scenarios, you can work with topic hierarchies that allow for filtering etc. 
 
 12. Click on Create
 
@@ -126,23 +126,27 @@ HINT: Please note that this topic is very simple to facilitate this exercise. In
 >Important: If your browser asks to select a certificate for authentication, press "Cancel" otherwise the connection will fail! If you accidentially clicked on a certificate, please restart your browser to show the dialog again.
 ![Pic 17](./images/ex1-17.png)  
 
-20. Enter the topic you subscribed to in step 14: user*XXX*/aif/businesspartner/change (replace *XXX* with your group/participant number)
+20. Choose **"Queue"** and provide the name of the queue creted in step 5: User_**XXX** (replace **XXX** with your user number)
 
-21. Add following body:
+21. Change "Deliver Mode" to **"Persistent** and add following "Message Content":
 ```json
 {
-    "specversion":"1.0",
-    "type":"aif.businesspartner.change",
-    "source":"S4H/100",
-    "datacontenttype":"application/json",
-    "id":"iopoR}Qa7k{IcvkdyZKjsm",
-    "time":"2024-07-23T10:18:11Z",
-    "data":{
-        "BusinessPartner":"0001000489",
-        "LastName":"Doe",
-        "FirstName":"John",
-        "Country":"DE"
-    }
+	"specversion": "1.0",
+	"type": "aif.businesspartner.change",
+	"source": "S4H/100",
+	"datacontenttype": "application/json",
+	"id": "iopoR}Qa7k{IeB7xyLljsm",
+	"time": "2024-07-23T15:09:31Z",
+	"data": {
+		"BusinessPartner": "A10",
+		"LastName": "John",
+		"FirstName": "Doe",
+		"Country": "DE",
+		"City": "Walldorf",
+		"PostCode": "69190",
+		"Street": "Dietmar-Hopp-Allee",
+		"HouseNumber": "16"
+	}
 }
 
 ```

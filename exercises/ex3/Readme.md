@@ -1,0 +1,1 @@
+The publish-subscribe pattern decouples the sending and receiving applications. This makes it easy to add new applications. In this exercise an Integration Flow is added as additional consumer via Advanced Event Mesh adapter using the Solace Messaging Format (SMF).
