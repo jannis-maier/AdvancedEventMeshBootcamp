@@ -92,11 +92,11 @@ HINT: If you cannot see the tiles, uncheck the "Only show my services" box.
 
 11. Enter following topic into the field: **aif/businesspartner/change** as the topic.
 
-![Pic 11](./images/ex1-10.png)  
-
 HINT: Please note that this topic is very simple to facilitate this exercise. In real world scenarios, you can work with topic hierarchies that allow for filtering etc. 
 
 12. Click on **"Create"**.
+
+![Pic 11](./images/ex1-10.png)  
 
 13. Check on whether your queue subscription got created.
 
