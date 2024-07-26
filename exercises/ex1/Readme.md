@@ -115,8 +115,6 @@ HINT: Please note that this topic is very simple to facilitate this exercise. In
 
 17. Open the **"Solace Web Messaging"** entry and select **"Solace JavaScript API"**. Now a Pop-up on the right shows use the connection details.
 
-![Pic 15](./images/ex1-14.png) 
-
 18.  Copy these details into the according properties of the "Try Me!" tool opened in step 14. Overwrite existing values.
 ![Pic 15-1](./images/ex1-15.png) 
 
