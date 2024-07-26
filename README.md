@@ -3,7 +3,7 @@
 
 ## Description
 
-An event-driven architecture is a software architecture using events as the core means for interaction between its software components. One of the main components of an EDA are Event Brokers. SAP's flagship event broker is SAP Integration Suite, advanced event mesh.
+An event-driven architecture is a software architecture that uses events as the core means for interaction between its software components. One of the main components of an EDA is Event Brokers. SAP's flagship event broker is SAP Integration Suite, an advanced event mesh.
 
 In this session we will take a deep dive into SAP Integration Suite, advanced event mesh.
 
