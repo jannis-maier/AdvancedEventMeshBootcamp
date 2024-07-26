@@ -26,17 +26,17 @@ Check out the different areas in the Advanced Event Mesh cockpit , representing 
 
 - Event Monitoring and Insights: With Insights, we provide curated dashboards, easy-to-understand visualizations based on historical and real-time metrics, and timely notifications about your event broker services. This advanced information allows you to identify problems before they occur and helps you to better manage your services as your EDA scales. You can work with SAP to configure your monitoring to meet your needs. For advanced monitoring requirements, there's a single entry point to build custom visualizations to meet your organization's requirements. Coupled with visualizations is a notification email framework that alerts you when key metrics fall outside of your established thresholds. These notifications allow you to monitor what's occurring and correct developing issues before they impact or degrade your EDA. You can configure these notifications to integrate with your existing notification and logging systems.
 
-3. Click on Cluster Manager and uncheck "Only show my services". Select Broker Asia.
+3. Click on "**Cluster Manager**" and uncheck **"Only show my services"**. Select "**Broker Asia**".
 
 ![Pic 2](./images/ex1-2.png)  
 
-4. Click on the Button on the right and press "Open Broker Manager".
+4. Click on the Button on the right and press **"Open Broker Manager"**.
 
 ![Pic 14](./images/ex1-3.png)  
 
-6. Explore the Broker Manager
+5. Explore the Broker Manager
 
-![Pic 15](./images/ex1-15.png)  
+![Pic 15](./images/ex1-exploreBroker.png)  
 
 On the left side of the screen are the main sections to navigate through:
 
