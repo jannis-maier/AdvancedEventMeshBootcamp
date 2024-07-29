@@ -72,8 +72,8 @@ SAP Integration Suite, advanced event mesh
 - [Exercise 3 -  Incremental growth: Add web application as additional consumer](exercises/ex3/)
 
     - [Exercise 3.1 - Create new queue for additional application](exercises/ex3#exercise-31-create-new-queue-for-additional-application)
-    - [Exercise 3.2 - Configure web application](exercises/ex3#exercise-32-configue-web-application)
-    - [Exercise 3.3 - publish-event-to-topic](exercises/ex3#exercise-33-publish-event-to-topic)
+    - [Exercise 3.2 - Configure web application](exercises/ex3#exercise-32-configure-web-application)
+    - [Exercise 3.3 - Publish event to topic](exercises/ex3#exercise-33-publish-event-to-topic)
 
 
 
