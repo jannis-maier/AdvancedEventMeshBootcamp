@@ -26,7 +26,7 @@ HINT: If you cannot see the tiles, uncheck the "Only show my services" box.
 ![Pic](./images/ex3-4.png)
 
 
-## Exercise 3.2: Open and configue Web Application
+## Exercise 3.2: Configure Web Application
 In this exercise you will conifugre the Business Partner Web Application. On this Website you will subscribe to the queue creatd in exercise 3.1 via your web browser. Every business partner published to your queue will be shown on the website.
 
 
@@ -41,7 +41,7 @@ In this exercise you will conifugre the Business Partner Web Application. On thi
 ![Pic](./images/ex3-6.png)
 
 
-## Exercise 3.3: Publish events to topic
+## Exercise 3.3: Publish event to topic
 
 In exercise 1, we did publish event to a queue. This time the event will be published to a topic instead. All queues subscribed to the topic will receive the event. This means both of your queues will receive events from all participants.
 

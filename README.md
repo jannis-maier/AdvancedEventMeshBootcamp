@@ -64,10 +64,17 @@ SAP Integration Suite, advanced event mesh
 
 - [Exercise 2 - Use Cloud Integration for event mediation](exercises/ex2/)
 
-    - [Exercise 2.1 - Create Webhook endpoint](exercises/ex2#exercise-12---log-into-advanced-event-mesh-and-explore-it)
-    - [Exercise 2.2 - Create Integration Package](https://github.com/SAP-samples/teched2023-IN265/blob/main/exercises/ex2/README)
-    - [Exercise 2.2 - Copy & Deploy Integration Flow](https://github.com/SAP-samples/teched2023-IN265/blob/main/exercises/ex2/README)
-    - [Exercise 2.2 - Monitor Messages](https://github.com/SAP-samples/teched2023-IN265/blob/main/exercises/ex2/README)
+    - [Exercise 2.1 - Setup REST Endpoint](exercises/ex2#21-setup-rest-endpoint)
+    - [Exercise 2.2 - Create Integration Package](exercises/ex2#22-create-integration-package)
+    - [Exercise 2.2 - Copy & Configure Integration Flow](exercises/ex2#23-copy--configure-integration-flow)
+    - [Exercise 2.2 - Monitor Messages](exercises/ex2#24-monitor-messages)
+
+- [Exercise 3 -  Incremental growth: Add web application as additional consumer](exercises/ex3/)
+
+    - [Exercise 3.1 - Create new queue for additional application](exercises/ex3#exercise-31-create-new-queue-for-additional-application)
+    - [Exercise 3.2 - Configure web application](exercises/ex3#exercise-32-configue-web-application)
+    - [Exercise 3.3 - publish-event-to-topic](exercises/ex3#exercise-33-publish-event-to-topic)
+
 
 
 ## User Data and Password
