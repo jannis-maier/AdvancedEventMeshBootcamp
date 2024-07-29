@@ -47,11 +47,20 @@ SAP Integration Suite, advanced event mesh features touched, some just shortly, 
 ## Event enable your backend using SAP Application Interface Framework
 
 
+## User Data and Password
+
+In order to log into Advanced Event Mesh, you can use the below email address with XXX replaced with your group number.
+
+handson_XXX@education.cloud.sap (e.g. handson_012@education.cloud.sap)
+
+The password will be provided to you by the moderators.
+
+Use this (Tenant)[https://eu10.console.pubsub.em.services.cloud.sap/login?zone-id=908a280d-c2f1-4d2b-b003-de94ffc5a4ee] to do the exercises.
+
+
 ## Exercises
 
-Preparation and Setup
 
-- [Getting Started](exercises/ex0/)
 
 SAP Integration Suite, advanced event mesh
 

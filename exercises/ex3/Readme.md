@@ -17,7 +17,7 @@ HINT: If you cannot see the tiles, uncheck the "Only show my services" box.
 
 ![Pic](./images/ex3-2.png)
 
-4. Search for the queue you created in exercise 1.2: : User_**XXX** (replace **XXX** with your user number).
+4. Search for the queue you created in exercise 1.2: User_**XXX** (replace **XXX** with your user number).
 5. Select the checkbox on the left and press "**Action**" -> "**Clone**"
 
 ![Pic](./images/ex3-3.png)
@@ -72,6 +72,7 @@ In exercise 1, we did publish event to a queue. This time the event will be publ
 ![Pic](./images/ex3-7.png)
 
 4. You should see your entry in the application. Be aware that also the message from other participants will show in the table.
+![Pic](./images/ex3-8.png)
 
 **Congratulations, you completed all exercises!**
 
