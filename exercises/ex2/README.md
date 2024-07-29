@@ -24,7 +24,7 @@ For simplicity purposes, our REST consumer will be a simple HTTP endpoint that w
 2. Navigate to  <b>Design > Integrations</b>, and select  <b>Create</b>.
   <br>![](./images/ex2-2.png)
    
-3. Fill in following **Name:** User**XXX** where <b>XXX</b> is your user number and a short <b>description</b> eg. "Integration Package for event mediation User XXX". Then click <b>Save</b>.
+3. Fill in following **Name:** User**XXX** where <b>XXX</b> is your user number and a short <b>description</b> eg. "Integration Package for event mediation User **XXX**". Then click <b>Save</b>.
   <br>![](./images/ex2-3.png)
 
 ## 2.3 Copy & Configure Integration Flow
