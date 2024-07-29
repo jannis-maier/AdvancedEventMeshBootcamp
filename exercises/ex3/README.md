@@ -47,6 +47,8 @@ In exercise 1, we did publish event to a queue. This time the event will be publ
 
 1. Switch back to the Broker Instance and open the **"Try me tool"**.  If your Broker is not connected, plese repeat the steps 14-19 of exercise 1.4 [Exercise 1.4 - Send an event from the Try Me! Tool to your Topic](../ex1#exercise-14---send-an-event-from-the-try-me-tool-to-your-topic)
 
+![Pic](./images/ex3-6-2.png)
+
 2. Change to publish to a **"Topic"** and provide **aif/businesspartner/change** as value.
 3. For the message content change the **"BusinessPartner"** value UserXXX to your User ID, e.g. **"User000"**. Press "**Publish**""
 ```json
