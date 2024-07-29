@@ -90,9 +90,7 @@ HINT: If you cannot see the tiles, uncheck the "Only show my services" box.
 
 ![Pic 9](./images/ex1-9.png)  
 
-11. Enter following topic into the field: **aif/businesspartner/change** as the topic.
-
-HINT: Please note that this topic is very simple to facilitate this exercise. In real world scenarios, you can work with topic hierarchies that allow for filtering etc. 
+11. Enter following topic: **aif/businesspartner/change**
 
 12. Click on **"Create"**.
 
