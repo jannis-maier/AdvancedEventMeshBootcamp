@@ -8,7 +8,7 @@ The publish-subscribe pattern decouples the sending and receiving applications. 
 1. Go back to the original tab in your browser and click on **"Cluster Manager"** on the left.
 2. In the All Services screen click on the **"Broker Asia"** tile.
 
-HINT: If you cannot see the tiles, uncheck the "Only show my services" box.
+> **_HINT:_** If you cannot see the tiles, uncheck the "Only show my services" box.
 
 ![](./images/ex3-1.png)  
 
@@ -35,9 +35,13 @@ In this exercise you will conifugre the Business Partner Web Application. On thi
 2. Provide the password captured in [Exercise 1.4 - Send an event from the Try Me! Tool to your Topic](../ex1#exercise-14---send-an-event-from-the-try-me-tool-to-your-topic)
 
 3. Fill in the queue name created in exercise 3.1: **User_XXX_WebApp** (replace **XXX** with your user number). Press **"Connect"**.
+> **_HINT:_** If your broswer is asking to use a certificate for authentication, press "Do not send certificate".
+> 
+> 
+
 ![Pic](./images/ex3-5.png)
 
-4. The Pop-Up should close and status shows **"Connected"**. Now your browser is directly subscribed to the queue and ready to receive business partner events.
+5. The Pop-Up should close and status shows **"Connected"**. Now your browser is directly subscribed to the queue and ready to receive business partner events.
 ![Pic](./images/ex3-6.png)
 
 
