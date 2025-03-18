@@ -53,7 +53,7 @@ In exercise 1, we did publish event to a queue. This time the event will be publ
 
 ![Pic](./images/ex3-6-2.png)
 
-2. Change to publish to a **"Topic"** and provide **aif/businesspartner/change** as value.
+2. Change to publish to a **"Topic"** and provide  user**XXX**/businesspartner/change**  (replace **XXX** with your user number) as value.
 3. For the message content change the **"BusinessPartner"** value UserXXX to your User ID, e.g. **"User000"**. Press "**Publish**""
 ```json
 {
@@ -77,7 +77,7 @@ In exercise 1, we did publish event to a queue. This time the event will be publ
 ```
 ![Pic](./images/ex3-7.png)
 
-4. You should see your entry in the application. Be aware that also the message from other participants will show in the table.
+4. You should see your entry in the application. Be aware that if you send a business partner with the same ID, an update of the existing entry will be triggered instead of creating a new entry.
 ![Pic](./images/ex3-8.png)
 
 **Congratulations, you completed all exercises!**
