@@ -60,7 +60,7 @@ HINT: If you cannot see the tiles, uncheck the "Only show my services" box.
 ![Pic 2](./images/ex1-2.png)  
 
 
-3. Switch to **"Manage"** tab and click on the **"Queues""** tile. A new window opens up.
+3. Switch to **"Manage"** tab and click on the **"Queues"** link. A new window opens up.
 
 ![Pic 4](./images/ex1-4.png)     
 
