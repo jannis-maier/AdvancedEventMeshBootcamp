@@ -64,7 +64,7 @@ Use this [Tenant](https://eu10.console.pubsub.em.services.cloud.sap/login?zone-i
 
 SAP Integration Suite, advanced event mesh
 
-- [Exercise 1 - Explore SAP S/4HANA Integration Suite, advanced event mesh](exercises/ex1/)
+- [Exercise 1 - Explore SAP Integration Suite, advanced event mesh](exercises/ex1/)
 
     - [Exercise 1.1 - Log into Advanced Event Mesh and Explore it](exercises/ex1#exercise-11---log-into-advanced-event-mesh-and-explore-it)
     - [Exercise 1.2 - Create a Queue in Advanced Event Mesh ](exercises/ex1#exercise-12---create-a-queue-in-advanced-event-mesh)
