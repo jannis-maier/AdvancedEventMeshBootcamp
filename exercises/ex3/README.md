@@ -80,5 +80,7 @@ In exercise 1, we did publish event to a queue. This time the event will be publ
 4. You should see your entry in the application. Be aware that if you send a business partner with the same ID, an update of the existing entry will be triggered instead of creating a new entry.
 ![Pic](./images/ex3-8.png)
 
+5. As you published the event to a topic, all queues subscribed have received the event. This means also the integration flow in exercise 2 is executed again and you should see an corresponding entry in the webhook site.
+
 **Congratulations, you completed all exercises!**
 
