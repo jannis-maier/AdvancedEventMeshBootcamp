@@ -53,7 +53,7 @@ In exercise 1, we did publish event to a queue. This time the event will be publ
 
 ![Pic](./images/ex3-6-2.png)
 
-2. Change to publish to a **"Topic"** and provide  user**XXX**/businesspartner/change**  (replace **XXX** with your user number) as value.
+2. Change to publish to a **"Topic"** and provide  user**XXX**/businesspartner/change  (replace **XXX** with your user number) as value.
 3. For the message content change the **"BusinessPartner"** value UserXXX to your User ID, e.g. **"User000"**. Press "**Publish**""
 ```json
 {
