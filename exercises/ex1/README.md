@@ -119,7 +119,7 @@ HINT: If you cannot see the tiles, uncheck the "Only show my services" box.
 >**Important**: If your browser asks to select a certificate for authentication, press "Cancel" otherwise the connection will fail! If you accidentially clicked on a certificate, please restart your browser to show the dialog again.
 ![Pic 17](./images/ex1-17.png)  
 
-20. Choose **"Topic"** and provide the name of the topic creted in step 5: user**XXX**/businesspartner/change**  (replace **XXX** with your user number).
+20. Choose **"Topic"** and provide the name of the topic creted in step 5: user**XXX**/businesspartner/change  (replace **XXX** with your user number).
 
 21. Change "Deliver Mode" to **"Persistent** and add following "Message Content":
 ```json
