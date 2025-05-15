@@ -18,7 +18,7 @@ For simplicity purposes, our REST consumer will be a simple HTTP endpoint that w
 
 ## 2.2 Create Integration Package
 
-1. Open the to the SAP Integration Suite landing page.
+1. Open the to the SAP Integration Suite landing page via this [link](https://cpisuite-europe-03.integrationsuite.cfapps.eu20-001.hana.ondemand.com/shell/home).
   <br>![](./images/ex2-1.png)
 
 2. Navigate to  <b>Design > Integrations</b>, and select  <b>Create</b>.
