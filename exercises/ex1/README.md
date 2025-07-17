@@ -148,7 +148,7 @@ HINT: If you cannot see the tiles, uncheck the "Only show my services" box.
 
 ![Pic 18](./images/ex1-18.png)  
 
-20. You should see 1 message published in the Publish Status.
+20. You should see 1 message published.
 
 ![Pic 20](./images/ex1-19.png)  
 
